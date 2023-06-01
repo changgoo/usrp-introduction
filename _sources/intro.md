@@ -1,6 +1,7 @@
-# USRP 2023 introduction
+# Introduction
 
-This is an introduction page for the USRP 2023 cohort.
+```{tableofcontents}
+```
 
 ## How to add your page
 
@@ -9,14 +10,14 @@ Now, its your turn to add your page.
 * Clone the repository and change the directory.
 
     ```sh
-    $ git clone repository
+    $ git clone git@github.com:changgoo/usrp2023.git
     $ cd usrp2023
     ```
 
 * Create a branch for your changes.
 
     ```sh
-    $ git branch _name_your_branch
+    $ git checkout -b _your_branch_name_
     ```
 
 * Navigate to the `docs/students` folder.
@@ -42,12 +43,16 @@ Now, its your turn to add your page.
 
 * Push the committed changes.
 
+    If you do this for the first time in your branch, you need to do this:
+
+    ```sh
+    $ git push --set-upstream origin _your_branch_name_
+    ```
+
+    otherwise, you can simply do this.
+
     ```sh
     $ git push
     ```
 
 * Create a pull request for review and merging.
-
-
-```{tableofcontents}
-```

@@ -2,6 +2,6 @@
 
 This is a template file to make your own page.
 
-Write whatever you want.
+Write about yourself!
 
 Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
