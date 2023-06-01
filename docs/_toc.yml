@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 parts:
-  - caption: 2023 Cohort
+  - caption: 2023 Cohort List
     chapters:
     - glob: students/*
