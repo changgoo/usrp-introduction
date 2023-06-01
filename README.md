@@ -8,6 +8,10 @@
 
 ## Add your page
 
+* Fork the repository (click the fork button in the top-right corner from [the main repository](https://github.com/changgoo/usrp2023))
+
+    ![fork](docs/fork.jpg)
+
 * Clone the repository and change the directory.
 
     ```sh
