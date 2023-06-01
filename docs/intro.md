@@ -7,10 +7,14 @@
 
 Now, its your turn to add your page.
 
+* Fork the repository (click the fork button in the top-right corner from [the main repository](https://github.com/changgoo/usrp2023))
+
+    ![fork](./fork.jpg)
+
 * Clone the repository and change the directory.
 
     ```sh
-    $ git clone git@github.com:changgoo/usrp2023.git
+    $ git clone git@github.com:_your_GitHub_id_/usrp2023.git
     $ cd usrp2023
     ```
 
@@ -55,4 +59,4 @@ Now, its your turn to add your page.
     $ git push
     ```
 
-* Create a pull request for review and merging.
+* Create a pull request to `changgoo/usrp2023:master` for review and merging.
