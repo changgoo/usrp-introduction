@@ -12,7 +12,8 @@ on:
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
-  deploy-book:
+  deploy-master:
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,6 +28,26 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    # Build the book
+    - name: Build the book
+      run: |
+        PYTHONPATH=./ jupyter-book build docs/
+
+  deploy-pr:
+    if: github.ref != 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    # Install dependencies
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.11
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
 
     # Build the book
     - name: Build the book
@@ -39,3 +60,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs/_build/html
+        destination_dir: ${{ github.event.number }}
