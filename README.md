@@ -4,6 +4,7 @@
 
 ## USRP Science Program
 
+* https://web.astro.princeton.edu/academic/undergraduate-summer-research-program-usrp
 * https://github.com/pmelchior/usrp-sciprog
 
 ## Add your page
