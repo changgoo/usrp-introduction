@@ -1,5 +1,7 @@
 # USRP 2023 Introduction Jupyter-book sources
 
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://changgoo.github.io/usrp2023/)
+
 ## USRP Science Program
 
 * https://github.com/pmelchior/usrp-sciprog
