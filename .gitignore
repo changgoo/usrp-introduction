@@ -1,0 +1,8 @@
+# exclude jupyter-book output
+_build
+
+# exclude swap files
+.swp
+
+# exclude MacOS hidden files
+.DS_Stores
