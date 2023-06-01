@@ -29,7 +29,7 @@ Now, its your turn to add your page.
 * Copy the `template.md` file to `your_name.md`.
 
     ```sh
-    $ cp template.md your_name.md
+    $ cp ../template.md your_name.md
     ```
 
 * Edit `your_name.md` using your favorite editor. You can use `nano`, `vim`, `emacs`, or something else.
@@ -56,5 +56,3 @@ Now, its your turn to add your page.
     ```
 
 * Create a pull request for review and merging.
-
-
