@@ -1,5 +1,9 @@
 # USRP 2023 Introduction Jupyter-book sources
 
+## USRP Science Program
+
+* https://github.com/pmelchior/usrp-sciprog
+
 ## Add your page
 
 * Clone the repository and change the directory.
