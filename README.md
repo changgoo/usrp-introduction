@@ -29,7 +29,7 @@
 * Navigate to the `docs/students` folder.
 
     ```sh
-    $ cd usrp2023/docs/students
+    $ cd docs/students
     ```
 
 * Copy the `template.md` file to `your_name.md`.
