@@ -1,7 +1,4 @@
-# Your Name
+James Robinson
 
-This is a template file to make your own page.
+I am an Astrophysics Major at Princeton University. I enjoy reading, writing, and playing Dungeons and Dragons. I'm so excited to be starting out!
 
-I am an Astrophysics Major at Princeton University. I'm so excited to be starting out!
-
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
