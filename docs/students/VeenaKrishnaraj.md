@@ -1,7 +1,4 @@
-# Your Name
+# Veena Krishnaraj
 
-This is a template file to make your own page.
+Hi this is Veena
 
-Write about yourself!
-
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
