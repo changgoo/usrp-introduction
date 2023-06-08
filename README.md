@@ -32,10 +32,10 @@
     $ cd docs/students
     ```
 
-* Copy the `template.md` file to `your_name.md`.
+* Copy the `_template.md` file to `your_name.md`.
 
     ```sh
-    $ cp template.md your_name.md
+    $ cp _template.md your_name.md
     ```
 
 * Edit `your_name.md` using your favorite editor. You can use `nano`, `vim`, `emacs`, or something else.
