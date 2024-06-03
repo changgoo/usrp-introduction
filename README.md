@@ -1,6 +1,6 @@
-# USRP 2023 Introduction Jupyter-book sources
+# USRP 2024 Introduction Jupyter-book sources
 
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://changgoo.github.io/usrp2023/)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://changgoo.github.io/usrp-introduction/)
 
 ## USRP Science Program
 
@@ -9,15 +9,15 @@
 
 ## Add your page
 
-* Fork the repository (click the fork button in the top-right corner from [the main repository](https://github.com/changgoo/usrp2023))
+* Fork the repository (click the fork button in the top-right corner from [the main repository](https://github.com/changgoo/usrp-introduction))
 
     ![fork](docs/fork.jpg)
 
 * Clone the repository and change the directory.
 
     ```sh
-    $ git clone git@github.com:changgoo/usrp2023.git
-    $ cd usrp2023
+    $ git clone git@github.com:changgoo/usrp-introduction.git
+    $ cd usrp-introduction
     ```
 
 * Create a branch for your changes.
