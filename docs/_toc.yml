@@ -6,6 +6,6 @@ root: intro
 parts:
   - chapters:
     - file: howto
-  - caption: 2023 Cohort List
+  - caption: 2024 Cohort List
     chapters:
     - glob: students/[!_]*
