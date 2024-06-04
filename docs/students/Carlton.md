@@ -1,5 +1,5 @@
-# Your Name
+# Carlton Passley 
 
-Hello, My name is Carlton Passley. I'm a rising Junior at Delaware State Uniersity, Physics Major.
+I'm a rising Junior at Delaware State Uniersity, Physics Major. I brought board games if anyone is interested.
 
 Fun fact: I speak German.
