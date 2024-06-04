@@ -10,7 +10,7 @@ Now, its your turn to add your page.
 
     ```sh
     $ git clone git@github.com:_your_GitHub_id_/usrp-introduction.git
-    $ cd usrp2023
+    $ cd usrp-introduction
     ```
 
 * Create a branch for your changes.
