@@ -9,26 +9,26 @@ Now, its your turn to add your page.
 * Clone the repository and change the directory.
 
     ```sh
-    $ git clone git@github.com:_your_GitHub_id_/usrp-introduction.git
-    $ cd usrp-introduction
+    git clone git@github.com:_your_GitHub_id_/usrp-introduction.git
+    cd usrp-introduction
     ```
 
 * Create a branch for your changes.
 
     ```sh
-    $ git checkout -b _your_branch_name_
+    git checkout -b _your_branch_name_
     ```
 
 * Navigate to the `docs/students` folder.
 
     ```sh
-    $ cd docs/students
+    cd docs/students
     ```
 
 * Copy the `_template.md` file to `your_name.md`.
 
     ```sh
-    $ cp _template.md your_name.md
+    cp _template.md your_name.md
     ```
 
 * Edit `your_name.md` using your favorite editor. You can use `nano`, `vim`, `emacs`, or something else.
@@ -36,8 +36,8 @@ Now, its your turn to add your page.
 * Commit your changes.
 
     ```sh
-    $ git add your_name.md
-    $ git commit -m "commit message"
+    git add your_name.md
+    git commit -m "commit message"
     ```
 
 * Push the committed changes.
@@ -45,13 +45,13 @@ Now, its your turn to add your page.
     If you do this for the first time in your branch, you need to do this:
 
     ```sh
-    $ git push --set-upstream origin _your_branch_name_
+    git push --set-upstream origin _your_branch_name_
     ```
 
     otherwise, you can simply do this.
 
     ```sh
-    $ git push
+    git push
     ```
 
 * Create a pull request to `changgoo/usrp-introduction:master` for review and merging.
