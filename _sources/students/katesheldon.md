@@ -1,14 +1,5 @@
-Kate Sheldon
-My name is Kate Sheldon. I'm a rising junior at Princeton majoring in physics. I am from Santa Barbara, CA.
+# Kate Sheldon
 
-'''{sidebar} Here's a sidebar
-Yeah
-'''
+My name is Kate Sheldon. I'm a rising junior at Princeton majoring in physics. I am from Santa Barbara, CA. I am 19 years old.
 
-'''{margin} Here's a margin
-yeah
-'''
-$$
-\frac{x^3}{2} = \frac{1}{16}
-x = \frac{1}{2}
-$$
+This summer I will be analyzing data from supermassive black holes Sagittarius A* and Messier 87. Using data from the Event Horizon Telescope (EHT), I will measure the polarization of light across different frequencies. 
