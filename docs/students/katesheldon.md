@@ -1,4 +1,5 @@
 Kate Sheldon
+My name is Kate Sheldon. I'm a rising junior at Princeton majoring in physics. I am from Santa Barbara, CA.
 
 '''{sidebar} Here's a sidebar
 Yeah
