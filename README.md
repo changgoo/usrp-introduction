@@ -1,2 +1,2 @@
-# USRP 2023 Introduction Jupyter-book sources
+# USRP 2024 Introduction Jupyter-book sources
 
