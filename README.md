@@ -1,4 +1,4 @@
-# USRP 2024 Introduction Jupyter-book sources
+# USRP 2025 Introduction Jupyter-book sources
 
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://changgoo.github.io/usrp-introduction/)
 
