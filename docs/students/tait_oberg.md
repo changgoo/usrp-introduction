@@ -12,9 +12,3 @@ I'm from Boston orginally and have lived there my whole life.
 Thanks for reading!
  
 ```
-
-This is a template file to make your own page.
-
-Write about yourself!
-
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
