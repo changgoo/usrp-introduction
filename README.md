@@ -13,10 +13,10 @@
 
     ![fork](docs/fork.jpg)
 
-* Clone the repository and change the directory.
+* Clone the repository (**from forked repository**) and change the directory.
 
     ```sh
-    $ git clone git@github.com:changgoo/usrp-introduction.git
+    $ git clone git@github.com:_your_user_name_/usrp-introduction.git
     $ cd usrp-introduction
     ```
 
