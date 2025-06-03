@@ -1,6 +1,6 @@
 # Liam Wang
 
-<img src="IMG_4168.jpeg">
+<img src="IMG_4168.png">
 
 I'm **Liam Wang**, a rising senior majoring in Astrophysical Sciences here at Princeton, with minors in Computer Science and the Program in Applied and Computational Mathematics. I'm from Oxford, Ohio.
 
@@ -22,3 +22,5 @@ I'm **Liam Wang**, a rising senior majoring in Astrophysical Sciences here at Pr
 Outside of analyzing and understanding the universe computationally, I'm a big musical theatre kid, D&D player, and love making LEGO stop-motion animations. I can play the piano, guitar, flute, and sing.
 
 Additionally I'm a pretty good home cook.
+
+YouTube Channel: https://www.youtube.com/@someone__unknown
