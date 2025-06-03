@@ -14,7 +14,7 @@ I'm **Liam Wang**, a rising senior majoring in Astrophysical Sciences here at Pr
 - **University of Oxford IIP**: Worked on simulating a toy model of the MW's galactic disc with the Sgr Dwarf Galaxy as a preturber with Professor James Binney (Summer 2024)
 - **Fall JP**: Analyzed scale-dependent gas dynamics in the central molecular zone of nearby galaxy M95 with Professor Jiayi Sun, upcoming paper in September 2025 (Fall 2024)
 - **Spring JP**: Literature review of the streaming instability with Professor Hantao Ji (Spring 2024)
-- **USRP**: Simulating relativistic orbits around a SMHB with Giovanni Maria Tomaselli and Zihan Zhou (Summer 2025)
+- **USRP**: Simulating relativistic orbits around a SMBH with Giovanni Maria Tomaselli and Zihan Zhou (Summer 2025)
 
 ## Fun!
 Outside of analyzing and understanding the universe computationally, I'm a big musical theatre kid, D&D player, and love making LEGO stop-motion animations. I can play the piano, guitar, flute, and sing.
