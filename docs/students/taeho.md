@@ -1,6 +1,6 @@
 # Taeho Kim
 
-Hello! My name is **Taeho Kim**. I am a rising senior in astrophysics (against my common sense). 
+Hello! My name is **Taeho Kim**. I am a rising senior in astrophysics, focusing on dynamics and theoretical stuff because unit conversion is not my favorite thing in the world.
 
 ## Interests
 
