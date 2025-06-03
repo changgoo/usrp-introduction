@@ -1,4 +1,4 @@
-#Mia Beatty
+# Mia Beatty
 
 Hi! I'm a rising junior in the astrophysics department here at Princeton. I'm from Santa Cruz, a small surf town in Cali :)
 
