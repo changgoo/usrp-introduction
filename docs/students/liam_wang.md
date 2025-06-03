@@ -2,7 +2,7 @@
 
 <img src="/Users/wanglm/Desktop/usrp-introduction/docs/students/IMG_4168.jpeg">
 
-I'm a rising senior in the Astrophysical Sciences Department here at Princeton.
+I'm a rising senior in the Astrophysical Sciences Department here at Princeton, and I'm from Oxford, Ohio.
 
 My research interests include black holes, galaxies, protoplanetary discs, and the ISM.
 
