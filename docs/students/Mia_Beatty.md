@@ -1,4 +1,4 @@
-Mia Beatty
+#Mia Beatty
 
 Hi! I'm a rising junior in the astrophysics department here at Princeton. I'm from Santa Cruz, a small surf town in Cali :)
 
@@ -7,4 +7,3 @@ When I'm home I love skateboarding (abandoned pools and parks), and going to the
 
 When I'm not suffering from psets I'm usually hanging out at terrace or the art studio!
 
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
