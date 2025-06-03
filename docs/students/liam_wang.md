@@ -1,7 +1,5 @@
 # Liam Wang
 
-<img src="IMG_4168.png">
-
 I'm **Liam Wang**, a rising senior majoring in Astrophysical Sciences here at Princeton, with minors in Computer Science and the Program in Applied and Computational Mathematics. I'm from Oxford, Ohio.
 
 ## Research Interests
