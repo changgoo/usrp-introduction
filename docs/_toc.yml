@@ -8,4 +8,4 @@ parts:
     - file: howto
   - caption: 2025 Cohort List
     chapters:
-    - glob: students/[!_]*/[!Example.md]
+    - glob: students/[!_]*
