@@ -5,4 +5,4 @@ My name is Achilleas Koukas and I am a rising sophomore here at Princeton, aimin
 
 ## Fun Fact
 I love trekking and the cicada sound during the summer.
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
+
