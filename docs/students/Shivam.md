@@ -11,5 +11,3 @@ I am Shivam Narhari from Jaipur, India. I am a rising sophomore at Princeton. I 
 ### Other: 
 - I watchg practically every popular sport except soccer. 
 - I play for Princeton Club Cricket and Princeton Club Flag Football.
-
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
