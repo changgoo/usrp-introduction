@@ -1,7 +1,11 @@
-# Your Name
+# Ryan Buschman
 
-This is a template file to make your own page.
+Hi my name is Ryan Buschman. I am a rising sophomore and a prospective astro major at Princeton.
 
-Write about yourself!
+## Interests
+* Astrobiology involving studying how plants function differently in microgravity
+* Hiking and bike riding in the mountains
+* Reading
 
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
+## Fun Fact
+* I used to have a guinea pig named Hamster.
