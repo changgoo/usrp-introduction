@@ -1,13 +1,12 @@
 # Nicolas Rohou
 Hi all! My name is Nicolas Rohou. I am a rising junior in the Astro department.
 
-##Interests
-
+## Interests
 - Running
 - Baking
 - Exoplanets
 
-##Fun Facts
+## Fun Facts
 
 - The only bone I've ever broken was my toe, from dancing too much
 - My favorite color is forest green
