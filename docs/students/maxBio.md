@@ -9,12 +9,6 @@ Hello! My name is **Maxwell Zhang**. I am a rising sophomore majoring in Compute
 - Artificial intelligence
 - Maxwell's equations
 
-\[
-\begin{aligned}
-\nabla \cdot \mathbf{E} &= \frac{\rho}{\varepsilon_0}, \\
-\nabla \cdot \mathbf{B} &= 0, \\
-\nabla \times \mathbf{E} &= -\frac{\partial \mathbf{B}}{\partial t}, \\
-\nabla \times \mathbf{B} &= \mu_0 \mathbf{J}
-+ \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}.
-\end{aligned}
-\]
+\begin{equation}
+E=mc^2 + AI
+\end{equation}
